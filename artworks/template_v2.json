@@ -1,0 +1,109 @@
+{
+  "artwork_info": {
+    "title": "",
+    "original_title": "",
+    "author": {
+      "name": "",
+      "description":"",
+      "bio_link": ""
+    },
+    "year_created": "",
+    "location_created": "",
+    "dimensions": "",
+    "style": {
+      "name":"",
+      "description":"",
+      "link":""
+    },
+    "genre":"",
+    "format":"",
+    "type": "",
+    "subject_matter": {
+      "subject_type": "",
+      "subject_link": ""
+    },
+    "visual_description":"",
+    "medium": {
+      "materials_used": "",
+      "medium_link": "",
+      "support":""
+    },
+    "cultural_context": {
+      "context_summary": "",
+      "context_link": ""
+    },
+    "historical_context": {
+      "context_summary": "",
+      "context_link": ""
+    },
+    "artistic_message": {
+      "message": "",
+      "message_link": ""
+    },
+    "conservation": {
+      "location": "",
+      "location_link": "",
+      "methods": "",
+      "condition": "",
+      "frame":""
+    },
+    "related_works": [
+      {
+        "title": "",
+        "year_created": "",
+        "link": ""
+      }
+    ],
+    "inspirations": [
+      {
+        "inspiration_name": "",
+        "description":"",
+        "inspiration_link": ""
+      }
+    ],
+    "color": ["",""],
+    "brush": [
+      {
+    	"name":"",
+    	 "link":"",
+    	 "description":""
+      }
+    ],
+    "composition": "",
+    "exhibition": [
+      {
+        "name": "",
+        "location": "",
+        "date": "",
+        "description": "",
+        "link": ""
+      }
+    ],
+    "ownership_history": [
+      {
+        "owner_name": "",
+        "period_owned": "",
+        "source_link": ""
+      }
+    ],
+    "sale_history": [
+      {
+        "sale_date": "",
+        "selling_price": "",
+        "source_link": ""
+      }
+    ],
+    "creation_process":{
+    	"process_summary":"",
+    	"process_link":""
+    },
+    "technical_analysis": [
+	   {
+	"analysis_type": "",
+	"analysis_link": "",
+	"analysis_summary": "",
+  "analysis_description":""
+	   }
+	   ]
+  }
+}

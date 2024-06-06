@@ -1,0 +1,173 @@
+{
+  "artwork_info": {
+    "title": "The Roses of Heliogabalus",
+    "original_title": "The Roses of Heliogabalus",
+    "author": {
+      "name": "Lawrence Alma-Tadema",
+      "description":"Sir Lawrence Alma-Tadema, was a Dutch painter who later settled in the United Kingdom and became a denizen there. Born in Dronryp, the Netherlands, and trained at the Royal Academy of Antwerp, Belgium, he settled in London, England in 1870 and spent the rest of his life there. A classical-subject painter, he became famous for his depictions of the luxury and decadence of the Roman Empire, with languorous figures set in fabulous marbled interiors or against a backdrop of dazzling blue Mediterranean Sea and sky. Alma-Tadema was considered one of the most popular Victorian painters. Though admired during his lifetime for his draftsmanship and depictions of Classical antiquity, his work fell into disrepute after his death, and only since the 1960s has it been re-evaluated for its importance within nineteenth-century British art.",
+      "bio_link": "https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema"
+    },
+    "year_created": "1888",
+    "location_created": "London, England",
+    "dimensions": "132,7cm x 214,4cm",
+    "style": {
+      "name":"romanticism",
+      "description":"Romanticism in painting was an artistic movement that emerged in Europe during the late 18th and early 19th centuries. It was a reaction against the Neoclassical style that had dominated the previous era, and it emphasized individualism, emotion, and imagination. Romantic painters sought to express intense emotions and explore the mysteries of nature, the supernatural, and the human psyche through their art. They often used vivid colors, dynamic compositions, and dramatic lighting to create powerful visual effects. Some of the most famous Romantic painters include J__M__W__ Turner, Eugene Delacroix, and Caspar David Friedrich.",
+      "link":"https://en.wikipedia.org/wiki/Romanticism"
+    },
+    "genre":"historical painting",
+    "format":"oil on canvas",
+    "type": "painting",
+    "subject_matter": {
+      "subject_type": "Banquet hosted by the Roman emperor Heliogabalus",
+      "subject_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus"
+    },
+    "visual_description":"The painting depicts a lavish banquet in ancient Rome, held by the emperor Heliogabalus. The scene is set in a grand hall, with richly decorated walls and columns. In the foreground, we see the emperor__s guests reclining on couches, dressed in opulent robes and jewelry. The focus of the painting is the massive cloud of pink rose petals that rains down on the guests from above. The petals fill the entire room, swirling around the guests in a mesmerizing display of beauty and excess. The guests are depicted in various poses, some reaching out to catch the petals, others shielding their faces or looking up in wonder.",
+    "medium": {
+      "materials_used": "oil paint",
+      "medium_link": "https://en.wikipedia.org/wiki/Oil_paint",
+      "support":"canvas"
+    },
+    "cultural_context": {
+      "context_summary": "Lawrence Alma-Tadema painted __The Roses of Heliogabalus__ in 1888, during a time of renewed interest in classical antiquity in Europe. The 19th century saw a revival of interest in the art and literature of ancient Greece and Rome, known as the neoclassical movement. This was partly due to the excavations of ancient sites, such as Pompeii and Herculaneum, and the discovery of new artifacts and texts that shed light on classical civilization. Alma-Tadema was part of this movement, and his paintings were known for their meticulous attention to historical accuracy and detail.",
+      "context_link": "https://en.wikipedia.org/wiki/Neoclassicism"
+    },
+    "historical_context": {
+      "context_summary": "The late 19th century was a time of great technological and social change. The Industrial Revolution had transformed society, and many people felt a sense of dislocation and unease in the face of these rapid changes. Alma-Tadema__s paintings offered a nostalgic vision of a simpler, more harmonious past, and his depictions of ancient Rome were particularly popular. __The Roses of Heliogabalus__ captures the decadence and excess of the Roman Empire, and its lavish display of wealth and luxury offered a compelling escape from the pressures of modern life.",
+      "context_link": "I don__t have any link."
+    },
+    "artistic_message": {
+      "message": "The artistic message of __The Roses of Heliogabalus__ is complex and multifaceted. On the surface, the painting depicts a lavish and decadent banquet, in which the emperor Heliogabalus demonstrates his power and wealth by showering his guests with thousands of rose petals. The painting captures the opulence and excess of the Roman Empire, and the mesmerizing beauty of the petals creates a sense of dreamlike enchantment. However, beneath the surface, the painting can also be seen as a critique of the excesses of power and wealth. Heliogabalus was notorious for his extravagance and cruelty, and his reign was marked by scandal and corruption. Alma-Tadema__s painting can be read as a warning against the dangers of unchecked power and the corrosive effects of excess. At the same time, the painting also offers a nostalgic vision of a lost world. The neoclassical movement of the 19th century was characterized by a longing for a simpler, more harmonious past, and Alma-Tadema__s paintings were part of this movement. __The Roses of Heliogabalus__ captures the beauty and grace of ancient Rome, and its nostalgic appeal lies in its vision of a bygone era of cultural richness and refinement.",
+      "message_link": "I don__t have any link."
+    },
+    "conservation": {
+      "location": "private collection of Juan Antionio Pérez Simon, Mexica",
+      "location_link": "https://victorianweb.org/painting/reviews/psc.html",
+      "methods": "I do not know the employed conservation methods.",
+      "condition": "I do not know the current condition of the painting.",
+      "frame":"I do not know which type of frame is used."
+    },
+    "related_works": [
+      {
+        "title": "The Finding of Moses",
+        "year_created": "1904",
+        "link": "https://en.wikipedia.org/wiki/The_Finding_of_Moses_(Alma-Tadema)"
+      },
+      {
+        "title": "The Baths of Caracalla",
+        "year_created": "1899",
+        "link": "https://it.wikipedia.org/wiki/File:The_Baths_at_Caracalla.jpg"
+      }
+    ],
+    "inspirations": [
+      {
+        "inspiration_name": "ancient roman literature",
+        "description":"One of his main sources of inspiration was ancient Roman literature, particularly the writings of the Roman historian Suetonius. Suetonius wrote a biography of the emperor Heliogabalus, in which he described the lavish banquets and excesses of his reign. Alma-Tadema also drew inspiration from other classical sources, such as the Roman poet Ovid__s __Metamorphoses__, which includes a story about the goddess Venus being showered with rose petals.",
+        "inspiration_link": "https://www.jstor.org/stable/43636546"
+      },
+      {
+        "inspiration_name": "his own travels to Italy",
+        "description":"Alma-Tadema was also influenced by his own travels to Italy, where he studied the ruins and artifacts of ancient Rome.",
+        "inspiration_link": "https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema#Early_works"
+      }
+    ],
+    "color": ["rose of the rose petals","white of the figures and building","red of the fruits and flowers"],
+    "brush": [
+      {
+    	"name":"romanticism",
+    	 "link":"https://en.wikipedia.org/wiki/Romanticism",
+    	 "description":"Romanticism in painting was an artistic movement that emerged in Europe during the late 18th and early 19th centuries. It was a reaction against the Neoclassical style that had dominated the previous era, and it emphasized individualism, emotion, and imagination. Romantic painters sought to express intense emotions and explore the mysteries of nature, the supernatural, and the human psyche through their art. They often used vivid colors, dynamic compositions, and dramatic lighting to create powerful visual effects. Some of the most famous Romantic painters include J__M__W__ Turner, Eugene Delacroix, and Caspar David Friedrich."
+      }
+    ],
+    "composition": "The composition is carefully arranged to convey the sense of luxury and excess depicted in the scene. The painting features a large banquet hall filled with guests, all of whom are enjoying the lavish spectacle before them. At the center of the painting is a raised platform, where the Emperor Heliogabalus sits on a luxurious couch, surrounded by attendants and musicians. The Emperor is the focal point of the composition, and his regal posture and colorful robes draw the viewer__s eye towards him. Surrounding the Emperor are numerous guests, some of whom are reclining on couches or standing and gesturing towards the falling rose petals. The guests are arranged in a circular pattern around the Emperor, which serves to draw attention to the central figure and highlight his status as the most important person in the room. The rose petals themselves are depicted as swirling and cascading down from the ceiling, forming a kind of curtain of flowers that envelops the guests and creates a sense of sensuality and decadence.",
+    "exhibition": [
+      {
+        "name": "Metropolitan Museum of Art",
+        "location": "New York, USA",
+        "date": "March and April 1973",
+        "description": "The painting was included in an exhibition at the Metropolitan Museum of Art in New York in March and April 1973 (when the owner was Allen Funt).",
+        "link": "https://www.metmuseum.org/"
+      },
+      {
+        "name": "Leighton House Museum",
+        "location": "London, England",
+        "date": "14 November 2014 to 29 March 2015",
+        "description": "The painting is part of a private collection but was on display from 14 November 2014 to 29 March 2015 at the Leighton House Museum in London as part of the exhibition __A Victorian Obsession: The Pérez Simón collection at Leighton House Museum__, the first time, since Alma-Tadema__s memorial exhibition at the Royal Academy in 1913, that it has been exhibited in London.",
+        "link": "https://www.rbkc.gov.uk/museums/"
+      },
+      {
+        "name": "Belvedere",
+        "location": "Vienna, Austria",
+        "date": "24 February to 18 June 2017",
+        "description": "The painting was a part of an exhibition of Lawrence Alma-Tadema__s paintings in Belvedere, Vienna, Austria from 24 February 2017 to 18 June 2017.",
+        "link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#Exhibitions"
+      }
+    ],
+    "ownership_history": [
+      {
+        "owner_name": "Sir John Aird, 1st Baronet",
+        "period_owned": "1888-1911",
+        "source_link": "https://en.wikipedia.org/wiki/Sir_John_Aird,_1st_Baronet"
+      },
+      {
+        "owner_name": "Sir John Aird, 2nd Baronet",
+        "period_owned": "1911-1934",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      },
+      {
+        "owner_name": "Sir John Aird, 3nd Baronet",
+        "period_owned": "1934-1935",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      },
+      {
+        "owner_name": "Allen Funt",
+        "period_owned": "1935-1973",
+        "source_link": "https://en.wikipedia.org/wiki/Allen_Funt"
+      },
+      {
+        "owner_name": "Frederick Robinson Koch",
+        "period_owned": "1973-1993",
+        "source_link": "https://en.wikipedia.org/wiki/Frederick_R._Koch"
+      },
+      {
+        "owner_name": "Juan Antonio Pérez Simón",
+        "period_owned": "since 1993",
+        "source_link": "https://en.wikipedia.org/wiki/Juan_Antonio_P%C3%A9rez_Sim%C3%B3n"
+      }
+    ],
+    "sale_history": [
+      {
+        "sale_date": "1888",
+        "selling_price": "£4,000",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      },
+      {
+        "sale_date": "1935",
+        "selling_price": "483 guineas",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      },
+      {
+        "sale_date": "1973",
+        "selling_price": "£28,000",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      },
+      {
+        "sale_date": "1993",
+        "selling_price": "£1,500,000",
+        "source_link": "https://en.wikipedia.org/wiki/The_Roses_of_Heliogabalus#History"
+      }
+    ],
+    "creation_process":{
+    	"process_summary":"Alma-Tadema was also known for his use of models and props in his paintings, and it is likely that he would have used live models to pose for the various figures in the painting. He may also have used real rose petals and other flowers as props during the painting process, in order to accurately depict the falling petals and the surrounding flora. Alma-Tadema was known to work in layers, building up his paintings gradually over time. He would have started with a sketch or preliminary drawing, and then gradually added layers of paint to create the final composition. He was known for his use of bright, vivid colors, and he would have used a variety of brushes and tools to create the various textures and patterns in the painting.",
+    	"process_link":"I don__t have any link."
+    },
+    "technical_analysis": [
+	   {
+	"analysis_type": "I do not know of any analysis done on the painting.",
+	"analysis_link": "I don__t have any link.",
+	"analysis_summary": "I do not know of any analysis done on the painting.",
+  "analysis_description":"I do not know of any analysis done on the painting."
+	   }
+	   ]
+  }
+}

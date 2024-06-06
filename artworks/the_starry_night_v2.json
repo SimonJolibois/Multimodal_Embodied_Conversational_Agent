@@ -1,0 +1,203 @@
+{
+  "artwork_info": {
+    "title": "The Starry Night",
+    "original_title": "Der sterrennacht",
+    "author": {
+      "name": "Vincent van Gogh",
+      "description":"Vincent van Gogh was a Dutch post-Impressionist artist. He lived from 1853 to 1890. He is widely regarded as one of the most famous and influential artists in the history of Western art. Van Gogh__s paintings are known for their bold use of color, dramatic brushstrokes, and emotional impact. He produced most of his best-known works during the final two years of his life.",
+      "bio_link": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    "year_created": "1889",
+    "location_created": "Saint-Rémy-de-Provence, France",
+    "dimensions": "73 cm × 92 cm",
+    "style": {
+      "name":"Post-Impressionism",
+      "description":"Post-Impressionism is an art movement that developed in the late 19th century as a response to Impressionism. It is characterized by a departure from the fleeting light effects and fragmented brushstrokes of Impressionism towards more structured compositions, symbolic content, and greater emotional depth. The movement produced some of the most iconic artists in modern history, including Vincent van Gogh, Paul Cezanne, Georges Seurat, and Henri Toulouse-Lautrec. Post-Impressionist artists emphasized the use of color, light, and texture to create expressive and often symbolic compositions.",
+      "link":"https://en.wikipedia.org/wiki/Post-Impressionism"
+    },
+    "genre":"landscape painting",
+    "format":"Oil on canvas",
+    "type": "painting",
+    "subject_matter": {
+      "subject_type": "Nightscape",
+      "subject_link": "https://en.wikipedia.org/wiki/Nightscape"
+    },
+    "visual_description":"The painting depicts a vibrant night sky filled with stars and a cypress tree in the foreground. The sky is characterized by bold swirls of blues, greens, and yellows, with each star depicted as a shining white dot. The cypress tree is dark and its branches reach towards the sky. The town in the background is lit by a moon that rises above the tree, casting an eerie glow. The brushstrokes are thick and lively, giving the painting a feeling of movement and energy. The overall effect is both peaceful and tumultuous, creating a dramatic and powerful composition.",
+    "medium": {
+      "materials_used": "Oil paint",
+      "medium_link": "https://en.wikipedia.org/wiki/Oil_paint",
+      "support":"Canvas"
+    },
+    "cultural_context": {
+      "context_summary": "The cultural context in which __The Starry Night__ was created was one of artistic experimentation and social change. At the time, there was a growing interest in new forms of artistic expression, particularly among artists who sought to break free from the traditional standards and conventions of academic art. This was a time of great creativity and innovation, as artists experimented with new techniques and styles, such as Post-Impressionism. Van Gogh was a key figure in this movement, and his work was heavily influenced by the vibrant colors and emotional intensity of Japanese woodblock prints.",
+      "context_link": "https://en.wikipedia.org/wiki/Post-Impressionism"
+    },
+    "historical_context": {
+      "context_summary": "Historically, __The Starry Night__ was created during a period of great political and social upheaval in Europe. The late 19th century was marked by growing industrialization, urbanization, and the rise of the modern nation-state. This was a time of great tension and uncertainty, as traditional ways of life were being challenged and transformed. At the same time, there was a growing sense of nationalism, which was reflected in the arts through a resurgence of interest in regional and national cultural traditions. This was the context in which Van Gogh created __The Starry Night__, and his paintings can be seen as a reflection of the anxieties and uncertainties of the time.",
+      "context_link": "https://en.wikipedia.org/wiki/Saint-Paul-de-Mausole"
+    },
+    "artistic_message": {
+      "message": "It is difficult to determine a specific artistic message that Vincent van Gogh intended to convey with __The Starry Night__. However, the painting can be seen as an expression of his emotional state and his experiences of the world around him. Van Gogh was known for his bold use of color and dramatic brushstrokes, and these elements are evident in __The Starry Night__. He sought to capture the raw, emotional energy of the natural world, and the painting__s vibrant colors and flowing lines reflect this intention. In addition, Van Gogh was deeply interested in spirituality and the relationship between the individual and the universe. This is reflected in the painting__s depiction of the night sky, which can be seen as a symbol of the infinite and the unknown. The cypress tree in the foreground is also a common symbol of eternity, and its presence serves to emphasize the painting__s spiritual and philosophical themes. Overall, __The Starry Night__ can be seen as a testament to Van Gogh__s deep connection to the natural world and his intense emotions. The painting__s vibrant colors, dramatic brushstrokes, and powerful composition convey a sense of energy, movement, and wonder, making it one of the most iconic works of Post-Impressionist art.",
+      "message_link": "https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889"
+    },
+    "conservation": {
+      "location": "Museum of Modern Art, New York",
+      "location_link": "https://www.moma.org/",
+      "methods": "The conservation of __The Starry Night__ has involved several techniques and processes to ensure its preservation and protection. Some of the methods used to conserve the painting include cleaning the dirt, grime, and discoloration from the painting__s surface to restore its original appearance, the stabilization of the painting__s canvas and frame to prevent damage due to environmental conditions or mechanical stress, the repair of the areas of the painting that have been damaged or degraded, either by filling in missing paint or by removing and replacing the damaged canvas, the protection from light exposure, high humidity, and temperature fluctuations, which can cause fading, discoloration, and other forms of degradation. The conservation also consider a regular monitoring conducted to track any changes in the painting__s condition and to take any necessary action to ensure its preservation.These conservation methods are typically carried out by a team of conservators, who have the specialized knowledge and skills needed to care for a work of art like __The Starry Night__. The goal is to ensure that the painting remains in as close to its original condition as possible, so that future generations can continue to enjoy and appreciate it.",
+      "condition": "well-preserved",
+      "frame":"Gilded wood frame"
+    },
+    "related_works": [
+      {
+        "title": "The Night Café",
+        "year_created": "1888",
+        "link": "https://en.wikipedia.org/wiki/The_Night_Caf%C3%A9"
+      },
+      {
+        "title": "Cypresses",
+        "year_created": "1889",
+        "link": "https://en.wikipedia.org/wiki/Cypresses_(Van_Gogh_series)"
+      }
+    ],
+    "inspirations": [
+      {
+        "inspiration_name": "The night sky",
+        "description":"Van Gogh was fascinated by the beauty and mystery of the night sky, and he often painted celestial scenes. __The Starry Night__ is one of his most famous depictions of the night sky, and it is characterized by its dynamic, swirling stars and its vivid blue background.",
+        "inspiration_link": "I don__t have any link."
+      },
+      {
+        "inspiration_name": "Japanese woodblock prints",
+        "description":"Van Gogh was a fan of Japanese art, and he was particularly inspired by the bold, graphic quality of Japanese woodblock prints. This influence is evident in the painting__s simplified forms, dynamic brushwork, and the use of contrasting color.",
+        "inspiration_link": "I don__t have any link"
+      },
+      {
+        "inspiration_name": "Symbolism",
+        "description":"Van Gogh was deeply interested in spirituality, and he often incorporated symbols into his paintings. In __The Starry Night__, the cypress tree in the foreground is a common symbol of eternity and the night sky can be seen as a symbol of the infinite and the unknown.",
+        "inspiration_link": "I don__t have any link"
+      },
+      {
+        "inspiration_name": "Emotional experiences",
+        "description":"Van Gogh__s art was deeply personal and often reflected his emotional state. __The Starry Night__ is thought to have been inspired by the tumultuous events in his life, including his struggles with mental illness and his love for his brother Theo.",
+        "inspiration_link": "I don__t have any link"
+      }
+    ],
+    "color": ["Blue","Yellow"],
+    "brush": [
+      {
+    	"name":"Impressionism",
+    	 "link":"https://en.wikipedia.org/wiki/Impressionism",
+    	 "description":"Impressionism is a style of art that emerged in France in the late 19th century. It is characterized by a focus on capturing fleeting, ephemeral moments, often using loose brushwork and light, bright colors to create a shimmering, atmospheric effect. Impressionist artists sought to capture the sensations and moods of a scene, rather than rendering a detailed, realistic representation of it. Impressionist paintings often depict modern life, including city scenes, leisure activities, and landscapes, and they were often painted quickly and outdoors. Impressionism is seen as a pivotal movement in the development of modern art and had a lasting influence on later movements such as Fauvism and Expressionism."
+      },
+      {
+      "name":"Post-Impressionism",
+       "link":"https://en.wikipedia.org/wiki/Post-Impressionism",
+       "description":"Post-Impressionism is an art movement that developed in the late 19th century as a response to Impressionism. It is characterized by a departure from the fleeting light effects and fragmented brushstrokes of Impressionism towards more structured compositions, symbolic content, and greater emotional depth. The movement produced some of the most iconic artists in modern history, including Vincent van Gogh, Paul Cezanne, Georges Seurat, and Henri Toulouse-Lautrec. Post-Impressionist artists emphasized the use of color, light, and texture to create expressive and often symbolic compositions."
+      }
+    ],
+    "composition": "__The Starry Night__ is a masterpiece of swirling blues and yellows, depicting a night sky filled with dazzling stars over a small village. The sky dominates the canvas, with dynamic, swirling patterns that convey motion and emotion. A bright crescent moon stands out amidst the stars, contributing to the scene's luminosity. Below, the quaint village consists of small houses with dark outlines, nestled quietly under the celestial display. A notable feature is the cypress tree in the foreground, stretching upward towards the sky, bridging the gap between the earth and the cosmos.",
+    "exhibition": [
+      {
+        "name": "Les XX",
+        "location": "Brussels, Belgium",
+        "date": "1890",
+        "description": "__Les XX__ was an art exhibition society based in Brussels, Belgium, that existed from 1883 to 1893. The group consisted of 20 artists and architects who sought to promote contemporary art and to break away from the traditional, conservative art scene in Belgium. Each year, __Les XX__ held exhibitions of contemporary art, including works by both Belgian and international artists. These exhibitions were known for their avant-garde and experimental nature, and they played an important role in the development of modern art in Belgium and beyond. Some of the most famous artists associated with __Les XX__ include Vincent van Gogh, James Ensor, and Pierre-Auguste Renoir.",
+        "link": "https://en.wikipedia.org/wiki/Les_XX"
+      }
+    ],
+    "ownership_history": [
+      {
+        "owner_name": "Vincent van Gogh",
+        "period_owned": "June 1889 - July 1890 -when van Gogh died",
+        "source_link": "https://en.wikipedia.org/wiki/The_Starry_Night#Ownership_history"
+      },
+      {
+        "owner_name": "Theo van Gogh (Vincent__s brother)",
+        "period_owned": "1890-1900",
+        "source_link": "https://en.wikipedia.org/wiki/The_Starry_Night#Ownership_history"
+      },
+      {
+        "owner_name": "Siegfried Kramarsky",
+        "period_owned": "1900-1941",
+        "source_link": "https://en.wikipedia.org/wiki/The_Starry_Night#Ownership_history"
+      },
+      {
+        "owner_name": "Museum of Modern Art",
+        "period_owned": "1941-today",
+        "source_link": "https://www.moma.org/collection/works/79802"
+      }
+    ],
+    "sale_history": [
+      {
+        "sale_date": "1941",
+        "selling_price": "$US 84,000",
+        "source_link": "https://en.wikipedia.org/wiki/The_Starry_Night#Ownership_history"
+      }
+    ],
+    "creation_process":{
+    	"process_summary":"The creation process for Vincent van Gogh__s __The Starry Night__ is not well documented, but it is believed to have been painted in 1889 while the artist was a resident at the Saint-Paul-de-Mausole asylum in Saint-Rémy-de-Provence, France. Van Gogh created __The Starry Night__ using oil paints on a canvas, and the painting is known for its bold, swirling brushstrokes, dynamic composition, and intense use of color. The painting is thought to have been inspired by Van Gogh__s memories of the night sky in the Netherlands, as well as the view from his window at the asylum.",
+    	"process_link":"https://en.wikipedia.org/wiki/The_Starry_Night"
+    },
+    "technical_analysis": [
+	   {
+	   "analysis_type": "X-ray",
+	   "analysis_link": "https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889",
+	   "analysis_summary": "This analysis revealed the under drawing and changes made by Van Gogh during the creation of __The Starry Night__. It showed that the artist made several changes to the composition during the painting process, including the position of the cypress tree and the shape of the hills.",
+	   "analysis_description":"This type of analysis uses X-rays to examine the underlying layers of a painting and determine the materials and techniques used by the artist."
+     },
+     {
+     "analysis_type": "infrared reflectography",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis also showed the underdrawing and changes made during the painting process. It revealed that Van Gogh made several changes to the composition, including the position of the stars and the moon, as well as the placement of the cypress tree.",
+     "analysis_description":"This type of analysis uses infrared light to penetrate the surface of a painting and reveal hidden details, such as underdrawings or changes made by the artist."
+     },
+    {
+     "analysis_type": "pigment analysis",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis determined that Van Gogh used a limited palette of pigments, including cobalt blue, ultramarine blue, chrome yellow, and lead white.",
+     "analysis_description":"This type of analysis involves identifying and analyzing the pigments used in a painting to determine the authenticity, age, and condition of the work."
+     },
+     {
+     "analysis_type": "microscopic analysis",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": " This analysis revealed the distinctive brushwork used by Van Gogh, including the impasto technique, which involves the thick application of paint, and the swirling brushstrokes that are characteristic of his style.",
+     "analysis_description":"Microscopic analysis of a painting is the examination of the materials and techniques used by the artist to create the work, through the use of a microscope. It involves close examination of small samples taken from the surface of the painting to reveal information about the pigments, binding media, and other materials used, as well as the artist__s methods and techniques. This type of analysis can provide important information about the materials and methods used in the creation of the painting and help in the conservation and preservation of the artwork."
+     },
+     {
+     "analysis_type": "ultraviolet fluorescence",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis showed that there were no previous restorations or repairs made to __The Starry Night__.",
+     "analysis_description":"Ultraviolet fluorescence analysis of a painting involves using ultraviolet light to observe fluorescence in the painting. This can help to identify changes in the painting__s pigments, binding media, and varnishes over time, as well as to detect retouching and overpainting. This non-invasive technique can provide valuable information for conservators and art historians when studying the materials and techniques used to create a painting."
+     },
+     {
+     "analysis_type": "dendrochronology",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis determined that the canvas used for the painting was made from flax and dates to the late 19th century, which is consistent with the date of the painting__s creation.",
+     "analysis_description":"Dendrochronology is a scientific method for dating and analyzing the annual growth rings of trees. It involves the study of tree ring patterns to determine the age and environmental conditions of a tree, and can also be used to date wooden artifacts, such as furniture and panels. The analysis of tree rings can provide valuable information about historical climatic patterns, forest management practices, and past events."
+     },
+     {
+     "analysis_type": "Raman spectroscopy",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis confirmed the chemical composition of the pigments used in the painting, including cobalt blue, ultramarine blue, chrome yellow, and lead white.",
+     "analysis_description":"Raman spectroscopy is a non-destructive analytical technique used to identify and quantify the molecular composition of a sample. It works by shining a laser light on the sample and measuring the shift in frequency of the scattered light to determine the vibrational modes of the molecules, providing information about the chemical bonds and molecular structure."
+     },
+     {
+     "analysis_type": "Cross-sectional analysis",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis showed the build-up of paint layers, revealing Van Gogh__s painting process and the thick impasto technique he used.",
+     "analysis_description":"Cross-sectional analysis in painting is a scientific technique used to study the different layers of paint and other materials used in a painting. It involves taking a cross-section sample of the painting and analyzing it using various methods, such as X-ray fluorescence, spectroscopy, or microscopy, to determine the materials used and their distribution in the painting__s layers. This information helps in understanding the painting__s creation process, condition, and aging, and is important for conservation purposes."
+     },
+     {
+     "analysis_type": "light reflectance transformation imaging (LRTI)",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis showed the surface texture and condition of the painting, including any cracks, discolorations, and abrasions that have occurred over time.",
+     "analysis_description":"Light Reflectance Transformation Imaging (LRTI) is a non-destructive method of analyzing the surface of a painting. It uses specialized digital cameras and software to produce high-resolution, detailed images of the surface of the painting, capturing its reflectance properties. This information can be used to study the physical and chemical changes that have occurred to the paint and varnish layers over time, and to assess the stability of the painting."
+     },
+     {
+     "analysis_type": "scanning electron microscopy (SEM)",
+     "analysis_link": "I don__t have any information",
+     "analysis_summary": "This analysis showed the surface texture and condition of the painting, including any previous restorations or repairs made to the painting. It also showed the presence of organic material, such as the bark of the cypress tree, which Van Gogh incorporated into the painting.",
+     "analysis_description":"Scanning electron microscopy (SEM) is a type of electron microscopy that produces images of a sample by scanning the surface with a focused beam of electrons. It provides high-resolution, three-dimensional images of the surface of a sample by detecting the secondary electrons emitted by the sample as it is bombarded by a focused beam of high-energy electrons. SEM is used to study the morphology, composition, and topography of a wide range of materials."
+     }
+	]
+  }
+}

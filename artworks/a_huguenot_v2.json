@@ -1,0 +1,101 @@
+{
+  "artwork_info": {
+    "title": "A Huguenot, on St Bartholomew__s Day",
+    "original_title": "A Huguenot, on St Bartholomew__s Day, Refusing to Shield Himself from Danger by Wearing the Roman Catholic Badge",
+    "author": {
+      "name": "John Everett Millais",
+      "description":"Sir John Everett Millais, was an English painter and illustrator who was one of the founders of the Pre-Raphaelite Brotherhood. He was a child prodigy who, aged eleven, became the youngest student to enter the Royal Academy Schools. The Pre-Raphaelite Brotherhood was founded at his family home in London. Millais became the most famous exponent of the style, his painting __Christ in the House of His Parents__ in 1850 generating considerable controversy, and he produced a picture that could serve as the embodiment of the historical and naturalist focus of the group, Ophelia, in 1852. By the mid-1850s, Millais was moving away from the Pre-Raphaelite style to develop a new form of realism in his art. His later works were enormously successful, making Millais one of the wealthiest artists of his day, but some former admirers including William Morris saw this as a sell-out (Millais notoriously allowed one of his paintings to be used for a sentimental soap advertisement). While these and early 20th-century critics, reading art through the lens of Modernism, viewed much of his later production as wanting, this perspective has changed in recent decades, as his later works have come to be seen in the context of wider changes and advanced tendencies in the broader late nineteenth-century art world, and can now be seen as predictive of the art world of the present.",
+      "bio_link": "https://en.wikipedia.org/wiki/John_Everett_Millais"
+    },
+    "year_created": "1852",
+    "location_created": "London, England",
+    "dimensions": "92,71 cm x 64,13 cm",
+    "style": {
+    	"name":"Pre-Raphaelite",
+    	"description":"The Pre-Raphaelite art movement was a 19th-century artistic movement characterized by its focus on detailed realism, vivid color, and symbolic content. The movement was influenced by the ideals of the Italian Renaissance and rebelled against the formalistic rules of the Royal Academy of Arts. Pre-Raphaelite artists sought to capture spiritual, moral and historical truth through their paintings, often featuring themes from literature, mythology and contemporary life.",
+    	"link":"https://en.wikipedia.org/wiki/Pre-Raphaelite_Brotherhood"
+    },
+    "genre":"historical painting",
+    "format":"Oil on canvas",
+    "type": "painting",
+    "subject_matter": {
+      "subject_type": "Historical Event",
+      "subject_link": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre"
+    },
+    "visual_description":"On the painting, we see two young lovers in each other’s embrace, staring intensively into each other__s eyes. They are holding onto each other, not wanting to leave each other. They stand in front of a brick wall, surrounded by plants and flowers. Their dark clothes underline the white linen the woman tries to attach to her lover__s arm. Meanwhile, with a calm expression, he seems to refuse her action while embracing her. In contrast to his face, she looks worried and unhappy. ",
+    "medium": {
+      "materials_used": "Oil paint",
+      "medium_link": "https://en.wikipedia.org/wiki/Oil_paint",
+      "support":"canvas"
+    },
+    "cultural_context": {
+      "context_summary": "The painting was created in 1852 during the Victorian era in England. This period was characterized by rapid industrialization, colonialism, and social change. The Pre-Raphaelite movement, of which Millais was a part, was a response to the academic art of the time and sought to revive the techniques and styles of the Renaissance. This painting is considered a masterpiece of this movement and reflects the Pre-Raphaelite__s interest in medieval and Renaissance art, as well as their commitment to realism and truth to nature.",
+      "context_link": "I don__t have any link."
+    },
+    "historical_context": {
+      "context_summary": "The painting depicts a scene from the St. Bartholomew__s Day Massacre, which took place in France in 1572. The massacre was a turning point in the French Wars of Religion and resulted in the deaths of thousands of Huguenots, who were members of a Protestant minority in France. The painting__s subject matter reflects the contemporary political climate in England at the time, as the country was facing its own religious tensions between Catholics and Protestants.",
+      "context_link": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre"
+    },
+    "artistic_message": {
+      "message": "Millais is one of the founders of the pre-Raphaelite brotherhood. The brotherhood was composed of artists that call into question the guidelines of the epoch’s British art academy. They though their art was too idealized and too uniform. The movement’s name come from a painter called Raphael that the academy’s artists took a lot of inspiration from for instruction. Millais wanted to refute the say of some who badmouthed the pre-Raphaelite movement of close links with Catholics, so he deliberately designed a painting framing a Protestant.",
+      "message_link": "https://en.wikipedia.org/wiki/A_Huguenot,_on_St._Bartholomew%27s_Day"
+    },
+    "conservation": {
+      "location": "Tate Britain, London",
+      "location_link": "I don__t have any link.",
+      "methods": "I don__t know about the conservation methods.",
+      "condition": "I don__t know the current condition of the painting.",
+      "frame":"I don__t know the frame of the painting."
+    },
+    "related_works": [
+      {
+        "title": "Ophelia",
+        "year_created": "1851-1852",
+        "link": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506"
+      },
+      {
+        "title": "Christ in the House of His Parents",
+        "year_created": "1849-1850",
+        "link": "https://www.tate.org.uk/art/artworks/millais-christ-in-the-house-of-his-parents-the-carpenters-shop-n03584"
+      }
+    ],
+    "inspirations": [
+      {
+        "inspiration_name": "St. Bartholomew__s Day Massacre",
+        "description":"The St Bartholomew__s Day Massacre (1572) was a violent wave of Catholic mob attacks against Huguenots (French Protestants) in Paris, later spreading to other parts of France. Sparked by political and religious tensions, thousands of Huguenots were killed over several days. This event deepened the French Wars of Religion and remains a dark chapter in French history.",
+        "inspiration_link": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre"
+      }
+    ],
+    "color": ["black","green"],
+    "brush": [
+      {
+    	"name":"I don__t know which type of brush was used.",
+    	 "link":"I do not have a link.",
+    	 "description":"There is no description."
+      }
+    ],
+    "composition": "On the painting, we see two young lovers in each other’s embrace, staring intensively into each other__s eyes. They are holding onto each other, not wanting to leave each other. They stand in front of a brick wall, surrounded by plants and flowers. Their dark clothes underline the white linen the woman tries to attach to her lover’s arm. Meanwhile, with a calm expression, he seems to refuse her action while embracing her. In contrast to his face, she looks worried and unhappy.",
+    "exhibition": [      
+      {
+        "name": "I don__t know where and when the artwork was exhibited.",
+        "location": "I don__t know where and when the artwork was exhibited.",
+        "date": "I don__t know where and when the artwork was exhibited.",
+        "description": "I don__t know where and when the artwork was exhibited.",
+        "link": "I don__t know where and when the artwork was exhibited."
+      }
+    ],
+    "ownership_history": [],
+    "sale_history": [
+      {
+        "sale_date": "7 July 1972",
+        "selling_price": "30000 guineas",
+        "source_link": "https://www.alamy.com/jul-07-1972-millais-painting-sold-for-30000-gns-a-pre-raphaelite-painting-image69466519.html"
+      }
+    ],
+    "creation_process":{
+    	"process_summary":"The creation process for this painting likely began with research and preparatory drawings, as Millais would have wanted to accurately depict the details of the clothing, weapons, and architecture in the painting. He then would have created a detailed underpainting, which served as a base for the final painting.For the final painting, Millais would have used thin, translucent layers of paint to build up the form and texture of the objects and figures in the painting. He would have used a slow-drying medium, such as linseed oil, to allow him to work in layers and build up the paint gradually. He was known for his meticulous attention to detail and his ability to create highly realistic paintings that appear almost photographic. Overall, the creation process for __A Huguenot, on St Bartholomew__s Day__ would have taken several months or longer, as Millais was known for his slow and methodical approach to painting.",
+    	"process_link":"I don__t have any link."
+    },
+    "technical_analysis": []
+  }
+}

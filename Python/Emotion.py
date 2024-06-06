@@ -1,0 +1,32 @@
+from enum import Enum
+
+
+class Emotion(Enum):
+    """All the Emotions based on the GoEmotion dataset"""
+    ADMIRATION = 'admiration'
+    AMUSEMENT = 'amusement'
+    ANGER = 'anger'
+    ANNOYANCE = 'annoyance'
+    APPROVAL = 'approval'
+    CARING = 'caring'
+    CONFUSION = 'confusion'
+    CURIOSITY = 'curiosity'
+    DESIRE = 'desire'
+    DISAPPROVAL = 'disapproval'
+    DISGUST = 'disgust'
+    EMBARRASSMENT = 'embarrassment'
+    EXCITEMENT = 'excitement'
+    FEAR = 'fear'
+    GRATITUDE = 'gratitude'
+    GRIEF = 'grief'
+    JOY = 'joy'
+    LOVE = 'love'
+    NERVOUSNESS = 'nervousness'
+    NEUTRAL = 'neutral'
+    OPTIMISM = 'optimism'
+    PRIDE = 'pride'
+    REALIZATION = 'realization'
+    RELIEF = 'relief'
+    REMORSE = 'remorse'
+    SADNESS = 'sadness'
+    SURPRISE = 'surprise'

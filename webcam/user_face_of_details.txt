@@ -1,0 +1,9 @@
+Input:webcam
+Camera parameters:500,500,320,240
+Output csv:user_face.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
