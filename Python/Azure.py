@@ -9,6 +9,7 @@ import string
 from gtts import gTTS
 from pydub import AudioSegment
 from g2p_en import G2p
+from dotenv import load_dotenv
 
 from Python.Exchange import Exchange
 
@@ -65,8 +66,10 @@ class Azure:
 
     @staticmethod
     def create_synthesizer():
-        SPEECH_KEY = "03917a06d79d4bc4bb166d027c33179c"
-        SPEECH_REGION = "francecentral"
+        load_dotenv()
+
+        SPEECH_KEY = os.getenv('API_KEY')
+        SPEECH_REGION = os.getenv('API_ZONE')
 
         speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=SPEECH_REGION)
         speech_config.speech_synthesis_voice_name = 'en-US-JaneNeural'
@@ -80,8 +83,10 @@ class Azure:
 
     @staticmethod
     def create_listener():
-        SPEECH_KEY = "03917a06d79d4bc4bb166d027c33179c"
-        SPEECH_REGION = "francecentral"
+        load_dotenv()
+
+        SPEECH_KEY = os.getenv('API_KEY')
+        SPEECH_REGION = os.getenv('API_ZONE')
 
         speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=SPEECH_REGION)
         speech_config.speech_recognition_language = "en-US"
