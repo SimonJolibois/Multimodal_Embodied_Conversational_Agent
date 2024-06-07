@@ -65,8 +65,8 @@ class Azure:
 
     @staticmethod
     def create_synthesizer():
-        SPEECH_KEY = "03917a06d79d4bc4bb166d027c33179c"
-        SPEECH_REGION = "francecentral"
+        SPEECH_KEY = ""
+        SPEECH_REGION = ""
 
         speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=SPEECH_REGION)
         speech_config.speech_synthesis_voice_name = 'en-US-JaneNeural'
@@ -80,8 +80,8 @@ class Azure:
 
     @staticmethod
     def create_listener():
-        SPEECH_KEY = "03917a06d79d4bc4bb166d027c33179c"
-        SPEECH_REGION = "francecentral"
+        SPEECH_KEY = ""
+        SPEECH_REGION = ""
 
         speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=SPEECH_REGION)
         speech_config.speech_recognition_language = "en-US"
