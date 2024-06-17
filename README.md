@@ -10,11 +10,15 @@ This project is an interactive Conversational Agent with a 3D avatar animated in
  - License
  - Acknowledgments
 
-##Project Overview
-This project is the accomplishement of 2 years of work for my Master Thesis on Embodied Conversational Agents. I am now releasing it on GitHub in hope that researchers and other interested parties can try it out.
+## Project Overview
+This project is the accomplishement of 2 years of work for my Master Thesis on Embodied Conversational Agents at the University of Tohoku (Japan). I am now releasing it on GitHub in hope that researchers and other interested parties can try it out.
+To know more about the agent's design, check the [original paper](https://link.springer.com/chapter/10.1007/978-3-031-35989-7_31) published at the HCI International 2023.
 
 ## Features
-- 
+- Dialogue with a 3D character
+- Speech recognition and speech synthesis
+- Emotion classification of the user's speech and facial expression, using BERT and MLP models
+- Engage with the agent about artworks
 
 ## Requirements
 - Unreal Engine 5.3.2
