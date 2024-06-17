@@ -31,7 +31,7 @@ This project is the accomplishement of 2 years of work for my Master Thesis on E
 7. Create a Python 3.10 project with all the files of the main folder, install all required librairies from the requirements.txt. Open the UE5 project
 8. Open the Quixel Bridge window, log in if necessary, and download the MetaHuman of your choice. Import it in your project, it should appear in a new folder called MetaHumans. If your MetaHuman is Ada, you don't have to do anything. Else, you just need to adapt the BP_MetaHuman components' assets and materials to be the same as your selected metahuman's
 9. In the project parameters->Maps&Mods, set the default map and startup map to Research_level and set default game mode to MR_FameMode
-10. In the Python project, create a .env file with your Microsoft Azure API key and zone for SpeechServices
+10. In the Python project, create a .env file with your Microsoft Azure API key and zone for SpeechServices. Take .env.example as example for syntaxe.
   ```
   Microsoft Azure Password and Keys
   API_ZONE=
@@ -39,7 +39,7 @@ This project is the accomplishement of 2 years of work for my Master Thesis on E
   ```
 
 ## Usage
-1.Open both the UE5 project and Python project
+1. Open both the UE5 project and Python project
 2. Launch the main.py script in your Python project. Wait for the **Launch the game** signal.
 3. Launch the Game from the Editor. Alternatively you can compile the game and directly launch the .exe.
 4. Select the artwork you want to talk about
