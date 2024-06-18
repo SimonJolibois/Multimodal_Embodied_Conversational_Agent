@@ -49,10 +49,11 @@ To know more about the agent's design, check the [original paper](https://link.s
 
 ## Usage
 1. Open both the UE5 project and Python project
-2. Launch the main.py script in your Python project. Wait for the **Launch the game** signal.
-3. Launch the Game from the Editor. Alternatively you can compile the game and directly launch the .exe.
-4. Select the artwork you want to talk about
-5. Engage with the agent and ask questions about the artwork.
+2. Launch the openface.bat to launch OpenFace webcam capture
+3. Launch the main.py script in your Python project. Wait for the **Launch the game** signal.
+4. Launch the Game from the Editor. Alternatively you can compile the game and directly launch the .exe.
+5. Select the artwork you want to talk about
+6. Engage with the agent and ask questions about the artwork.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
