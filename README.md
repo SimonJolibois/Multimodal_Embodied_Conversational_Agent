@@ -1,10 +1,10 @@
 # Multimodal Embodied Conversational Agent
 This project is an interactive Conversational Agent with a 3D avatar animated in Unreal Engine 5, and controlled with Python. You can converse and learn with the agent about 4 artworks.
 
-![](Presentation/picture1.png)
-![](Presentation/picture2.png)
-![](Presentation/picture3.png)
-![](Presentation/Movie.mov)
+![](/Presentation/picture1.png)
+![](/Presentation/picture2.png)
+![](/Presentation/picture3.png)
+![](/Presentation/Movie.mov)
 
 ## Table of Content
  - Overview
